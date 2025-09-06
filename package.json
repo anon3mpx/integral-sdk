@@ -31,8 +31,8 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@cryptoalgebra/integral-sdk",
-  "author": "cryptoalgebra",
+  "name": "@anon.3mpx/integral-sdk-base-sepolia",
+  "author": "anon3mpx",
   "module": "dist/integral-sdk.esm.js",
   "dependencies": {
     "@ethersproject/abi": "^5.7.0",
