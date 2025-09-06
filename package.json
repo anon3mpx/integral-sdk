@@ -33,7 +33,7 @@
   },
   "name": "@anon.3mpx/integral-sdk-base-sepolia",
   "author": "anon3mpx",
-  "module": "dist/integral-sdk.esm.js",
+  "module": "dist/integral-sdk-base-sepolia.esm.js",
   "dependencies": {
     "@ethersproject/abi": "^5.7.0",
     "@ethersproject/address": "^5.7.0",
